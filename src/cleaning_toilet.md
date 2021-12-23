@@ -20,7 +20,7 @@ You get this bag from underneath the sink in the bathroom.
 ![drawing](./assets/toilet_trash_bags.jpg)
 
 ## Throwing away that poo
-When leaving the house right next to the entrance door there is the garbage room which you can open with the appartment key and throw it in there.
+When leaving the house right next to the entrance door there is the garbage room which you can open with the apartment key and throw it in there.
 
 ## Restocking the litter
 ![drawing](./assets/toilet_top.jpg)

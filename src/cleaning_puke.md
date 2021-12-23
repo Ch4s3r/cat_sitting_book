@@ -1,7 +1,7 @@
 # Cleaning the puke
 
 ## Hairballs and other evil
-`Tama` is prone to puke a lot either from some food she is not fine with or from hairbaills, leafs, dust, etc.
+`Tama` is prone to puke a lot either from some food she is not fine with or from hairballs, leafs, dust, etc.
 
 ## Checking the flat for accidents
 Please check the flat for puke stains and clean them with the respective cleaner.

@@ -26,7 +26,7 @@ Perfect you have disassembled it!
 Pour hot water over it wand clean it with a towel.
 
 ## Filling
-Pour cold water into it until you reach a little bit under the `max` line.
+Pour cold water into it until you reach a little under the `max` line.
 
 ## Assembling again
 Follow the steps in reverse order from [Disassembling](#disassembling).

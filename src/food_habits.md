@@ -9,7 +9,7 @@ Please try to check that they eat only out of their respective bowl.
 ## Time to feed!
 Usually they like to eat in the morning at around 8:30 and in the evening at 17:30.
 But as this would be a too high effort to feed them twice a day, it's enough if you can come by once a day.
-At best usually in the morning so they can keep on of their habits, but if it's not working for you once a day is also find, but morning is definitely preferred.
+At best usually in the morning, so they can keep on of their habits, but if it's not working for you once a day is also find, but morning is definitely preferred.
 
 ## Portion size
 Both cats together should eat about half a can of wet food and the rest dry food.
@@ -36,7 +36,7 @@ Put them in the refrigerator on the right tray with a lid on, as the cats don't 
 This food should be reused the next day, mixed with a little of hot water, so it's not too cold for the cats to eat.
 
 ## Somebody said TREATS?!?
-If they were well-hebaved cats or you just like that they like you more with treats, you can give them a few (5 max per cat).
+If they were well-behaved cats, or you just like that they like you more with treats, you can give them a few (5 max per cat).
 They are in the kitchen drawer next to the cat bowls.
 ![drawing](./assets/cat_treats.jpg)
 
