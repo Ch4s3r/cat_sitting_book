@@ -35,3 +35,5 @@ Set permissions to allow all under `Bucket` > `Permissions`:
 mdbook build
 aws s3 sync book s3://cat-sitting/book --size-only
 ```
+
+URL: https://cat-sitting.s3.eu-central-1.amazonaws.com/index.html
