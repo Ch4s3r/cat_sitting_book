@@ -13,11 +13,14 @@ Please use the shovel on the right to scrap it off.
 Put the grid back in when done.
 
 ## Removing the used litter
-Check if the trash bin of the toilet is full by pulling it out from below.
+Check if the trash bin of the toilet is half full by pulling it out from below.
 ![drawing](./assets/toilet_trash_bin.jpg)
 Pack the sack and then put a new plastic bag in.
 You get this bag from underneath the sink in the bathroom.
 ![drawing](./assets/toilet_trash_bags.jpg)
+
+## Unwanted tenants
+In summer it's quite critical not to wait too long, as there might get some flies into the box and they will nest there, then also the cats don't like to go to the toilet there anymore.
 
 ## Throwing away that poo
 When leaving the house right next to the entrance door there is the garbage room which you can open with the apartment key and throw it in there.
@@ -29,3 +32,6 @@ Open the top of the toilet.
 ![drawing](./assets/toilet_top_litter_open.jpg)
 Then use the litter right next to the toilet to fill it up.
 ![drawing](./assets/cat_litter.jpg)
+
+## Red carpet
+Please also clean the pellets that are in front of the cat toilet, just grab the vacuum and away they go.
