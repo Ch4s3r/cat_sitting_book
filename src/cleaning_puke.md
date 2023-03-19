@@ -6,7 +6,7 @@ You can find them in the toilet downstairs.
 The parquet cleaner as the name suggests is for the wooden floor.
 For the rest please use only a little of the other one.
 Also use the toilet paper for cleaning and throwing everything in the toilet and flushing it then.
-![drawing](./assets/human_toilet.jpg)
+![drawing](assets/human_toilet.jpg)
 
 ## Hold the door!
 Please never close the human toilet door or seat, as the cats also like to pee there.

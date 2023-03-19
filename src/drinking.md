@@ -14,7 +14,7 @@ Pick up the top part by lifting it.
 You don't need to unscrew the white top part from the metal part.
 Fill in water until the max line.
 Then put the metal part back on top again.
-![drawing](./assets/water_fountain_disassembled.jpg)
+![drawing](assets/water_fountain_disassembled.jpg)
 
 ## Long maintenance
 It needs to cleaned thoroughly twice a week.
@@ -23,13 +23,13 @@ So if you're lucky enough to have a cat sitting slot on one of these days.
 
 ### Howto
 Pick up the top part by lifting it.
-![drawing](./assets/water_fountain.jpg)
+![drawing](assets/water_fountain.jpg)
 
 ### Disassembling
 Turn the top white part to the left, then you can take it out.
 Pick up the steel part.
 Perfect you have disassembled it!
-![drawing](./assets/water_fountain_disassembled.jpg)
+![drawing](assets/water_fountain_disassembled.jpg)
 
 ### Cleaning
 Pour hot water over it and clean it with a towel.
