@@ -1,8 +1,5 @@
 # Cleaning the puke
 
-## Hairballs and other evil
-`Tama` is prone to puke a lot either from some food she is not fine with or from hairballs, leafs, dust, etc.
-
 ## Checking the flat for accidents
 Please check the flat for puke stains and clean them with the respective cleaner.
 You can find them in the toilet downstairs.
@@ -17,6 +14,5 @@ Would also check if there is something inside and flush/clean it then.
 
 ## Alternative toilets
 Sometimes the cats don't got where they should do their business.
-Tama then pees on the wooden floor on the first floor or around the human toilet.
-Lola is mostly going into the bathtub.
+Lola likes to use the bathtub as her alternative toilet.
 Please flush it if you see something in there.

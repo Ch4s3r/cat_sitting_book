@@ -3,12 +3,11 @@
 ## Drinks on the house!
 We have a fully automated water fountain for the cats, with a filter so the water does not get stale.
 
-
 ## Location
 It's next to the food bowls, you literally can't miss it.
 
 ## Daily refill
-Please refill it every day with fresh water.
+Please refill it every wednesday and sunday with fresh water.
 
 ### Howto
 Pick up the top part by lifting it.

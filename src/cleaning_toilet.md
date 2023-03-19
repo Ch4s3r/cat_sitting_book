@@ -16,7 +16,7 @@ Put the grid back in when done.
 Check if the trash bin of the toilet is half full by pulling it out from below.
 ![drawing](./assets/toilet_trash_bin.jpg)
 Pack the sack and then put a new plastic bag in.
-You get this bag from underneath the sink in the bathroom.
+You get this bag from underneath the sink in the bathroom or kitchen
 ![drawing](./assets/toilet_trash_bags.jpg)
 
 ## Unwanted tenants
@@ -35,3 +35,6 @@ Then use the litter right next to the toilet to fill it up.
 
 ## Red carpet
 Please also clean the pellets that are in front of the cat toilet, just grab the vacuum and away they go.
+
+## Misinformation?!
+If something is not where it should belong to, eg cleaning stuff, trash bags, please don't be shy and give me a call.
