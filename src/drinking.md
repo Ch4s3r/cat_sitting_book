@@ -6,7 +6,11 @@ We have a fully automated water fountain for the cats, with a filter so the wate
 ## Location
 It's next to the food bowls, you literally can't miss it.
 
-## Daily refill
+## #Smart
+It has a `smart` mode where it only pumps water for 3 minutes and then pauses for 3 minutes.
+Please always check if it pumps after 3 minutes, otherwise it might be empty.
+
+## Refill
 Please refill it every wednesday and sunday with fresh water.
 
 ### Howto
