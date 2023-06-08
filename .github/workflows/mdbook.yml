@@ -27,7 +27,7 @@ jobs:
 #      - if: ${{ steps.cache-toolchain.outputs.cache-hit != 'true' }}
 #        run: rustup show active-toolchain
 
-      - run: rustup toolchain install stable --profile minimal
+      - run: rustup show active-toolchain
 
       - uses: Swatinem/rust-cache@v2
 
