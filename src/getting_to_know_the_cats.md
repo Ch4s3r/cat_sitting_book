@@ -1,4 +1,4 @@
-# Getting to know the cats
+# Getting to know the cat
 
 For your convenience here are some pictures of the cats you should take care of:
 
