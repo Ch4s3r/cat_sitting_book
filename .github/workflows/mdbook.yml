@@ -13,22 +13,26 @@ jobs:
         uses: actions/checkout@v3
 
 #      - uses: actions-rust-lang/setup-rust-toolchain@v1
+#
+#      - id: cache-toolchain
+#        name: Cache Rust toolchain and cargo
+#        uses: actions/cache@v3
+#        with:
+#          path: |
+#            ~/.rustup
+#            ~/.cargo
+#            ./target
+#          key: toolchain-${{ runner.os }}-${{ hashFiles('**/rust-toolchain.toml') }}
+#
+#      - if: ${{ steps.cache-toolchain.outputs.cache-hit != 'true' }}
+#        run: rustup show active-toolchain
 
-      - id: cache-toolchain
-        name: Cache Rust toolchain and cargo
-        uses: actions/cache@v3
-        with:
-          path: |
-            ~/.rustup
-            ~/.cargo
-            ./target
-          key: toolchain-${{ runner.os }}-${{ hashFiles('**/rust-toolchain.toml') }}
+      - run: rustup toolchain install stable --profile minimal
 
-      - if: ${{ steps.cache-toolchain.outputs.cache-hit != 'true' }}
-        run: rustup show active-toolchain
+      - uses: Swatinem/rust-cache@v2
 
-      - if: ${{ steps.cache-toolchain.outputs.cache-hit != 'true' }}
-        name: Install cargo tools
+#      - if: ${{ steps.cache-toolchain.outputs.cache-hit != 'true' }}
+      - name: Install cargo tools
         run: cargo install --locked mdbook
 
       - name: Build book
