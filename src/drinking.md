@@ -33,7 +33,7 @@ Pick up the top part by lifting it.
 Turn the top white part to the left, then you can take it out.
 Pick up the steel part.
 Perfect you have disassembled it!
-![drawing](assets/water_fountain_disassembddddled.jpg)
+![drawing](assets/water_fountain_disassembled.jpg)
 
 ### Cleaning
 Pour hot water over it and clean it with a towel.
