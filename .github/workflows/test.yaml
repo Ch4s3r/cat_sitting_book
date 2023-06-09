@@ -1,0 +1,18 @@
+on:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install mdbook
+        uses: baptiste0928/cargo-install@v2
+        with:
+          crate: mdbook
+          version: 0.4.30
+      - name: Build mdbook
+        run: |
+          mdbook build
+          mdbook test
