@@ -5,4 +5,6 @@ multilingual = false
 src = "src"
 title = "Cat sitting for beginners"
 
+[output.html]
+
 [output.linkcheck]
