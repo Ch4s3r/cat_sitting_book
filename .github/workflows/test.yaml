@@ -13,8 +13,7 @@ jobs:
       - uses: Swatinem/rust-cache@v2
         with:
           shared-key: "cargo"
-      - run: cargo install --locked mdbook@0.4.30
-      - run: cargo install --locked mdbook-linkcheck@0.7.7
+      - run: cargo install --locked mdbook@0.4.30 mdbook-linkcheck@0.7.7
       - name: Build mdbook
         run: |
           mdbook build
