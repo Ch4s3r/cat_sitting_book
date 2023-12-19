@@ -7,3 +7,4 @@
 - [Cleaning puke](./cleaning_puke.md)
 - [Lola's habits](./lola_habits.md)
 - [Human trash](./human_trash.md)
+- [Human treat](./human_treat.md)
