@@ -21,9 +21,7 @@ Then put the metal part back on top again.
 ![drawing](assets/water_fountain_disassembled.jpg)
 
 ## Long maintenance
-It needs to cleaned thoroughly twice a week.
-Usually we do this on `Wednesday` and `Sunday`.
-So if you're lucky enough to have a cat sitting slot on one of these days.
+It needs to cleaned thoroughly once a week on Sunday.
 
 ### Howto
 Pick up the top part by lifting it.
