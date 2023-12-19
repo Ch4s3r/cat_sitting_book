@@ -6,5 +6,6 @@
 - [Cleaning toilet](./cleaning_toilet.md)
 - [Cleaning puke](./cleaning_puke.md)
 - [Lola's habits](./lola_habits.md)
+- [Luci's habits](./luci_habits.md)
 - [Human trash](./human_trash.md)
 - [Human treat](./human_treat.md)
