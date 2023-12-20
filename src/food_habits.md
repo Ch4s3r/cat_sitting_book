@@ -2,7 +2,9 @@
 
 ## 3 bowls?!? What is what
 ![drawing](assets/food_bowls.jpg)
-There should be one for the wet food and the other two for dry food.
+There should be one in the center for the dry food and the other two for wet food.
+The left bowl is owned by Lola and the right bowl is the property of Luci.
+Please put them to their respective bowl if you see them eating from the wrong one.
 
 ## Time to feed!
 Usually they like to eat in the morning at around 8:30 and in the evening at 17:30.
@@ -15,12 +17,12 @@ All the wet food is located in the little room under the stairs.
 Once open, put a lid on it and put it in the bottom right part of the fridge, so it doesn't get stale.
 ![fridge_cat_food_right_bottom.jpg](assets/fridge_cat_food_right_bottom.jpg)
 The dry food is located under the kitchen sink.
-![drawing](assets/kitchen_sink_food.jpg)
+![dry_food_below_sink.jpg](assets/dry_food_below_sink.jpg)
 
 ## FOOD!
 Wet food should be mixed with warm water if it's coming from the fridge, as cold food is not good for the cats stomach.
 Mix some super hot water and a few tablespoons (4-6) of wet food so the food has a proper temperature to not be too harsh on the kitties stomach.
-Please check before leaving that dry food is always filled to the maximum in the middle feeding bowl.
+Please check before leaving that dry food is always filled to the maximum in the center feeding bowl.
 
 ## Somebody said TREATS?!?
 If they were well-behaved cats, or you just like that they like you more with treats, you can give them a few (5 max per cat).
