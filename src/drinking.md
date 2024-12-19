@@ -1,6 +1,9 @@
 # Drinks
 
-## Drinks on the house!
+Currently the automated water fountain is not in used, but the cats got a water bowl next to their food.
+Please give it a quick clean and refill every day.
+
+<!-- ## Drinks on the house!
 We have a fully automated water fountain for the cats, with a filter so the water does not get stale.
 
 ## Location
@@ -40,4 +43,4 @@ Pour hot water over it and clean it with a towel.
 Pour cold water into it until you reach a little under the `max` line.
 
 ### Assembling again
-Follow the steps in reverse order from [Disassembling](#disassembling).
+Follow the steps in reverse order from [Disassembling](#disassembling). -->
