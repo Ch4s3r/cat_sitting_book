@@ -21,7 +21,7 @@ If the appliances are not working, check that the energy switch behind the espre
 ![coffee_water_heater.jpg](assets/coffee_water_heater.jpg)
 Fill the water until the spout begins and then turn it on by pressing the right big black button.
 Adjust the heat by turning the knob.
-Light coffee it should be set to 93-95 degree and for a darker roast it should be 88-90.
+You can set it somehwere between 88 and 93 degrees, which works quite nice for us, the darker the roast, the lower you go with the temperature.
 Afterwards press the button again to turn it off.
 
 ### Get the beans
