@@ -32,11 +32,3 @@ They are also located next to the dry food.
 ## Cleaning the bowls
 The bowls should be cleaned about every two days, so there is no dirty smell that the cats don't like.
 It's less of a problem with dry food, but still you would also take a new plate yourself every few days :).
-
-## Recycling wet food cans
-We don't like to put the cat food cans to the other trash that we have in-house, as they smell and are prone to attract insects.
-Please try to throw them away after they are empty.
-We have a garbage collection point 50 meters outside of our house.
-If you leave the building and go to the left, under the bridge you can find the green garbage container.
-
-![drawing](assets/green_garbage_container.jpg)
