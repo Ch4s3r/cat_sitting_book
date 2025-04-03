@@ -16,7 +16,7 @@ All the wet food is located in the little space next to the stairs.
 ![wet_food_location.jpg](assets/wet_food_location.jpg)
 Once open, put a lid on it, so it doesn't get stale.
 ![food_lid.jpg](assets/food_lid.jpg)
-And please clean the spoon with water, so it does not smell too bad and has reisue of the food on it.
+And please clean the spoon with water, so it does not smell too bad and has any leftover of the food on it.
 The dry food is located under oven.
 ![dry_food_location.jpg](assets/dry_food_location.jpg)
 
