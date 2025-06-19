@@ -9,13 +9,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - run: rustup show active-toolchain
-      - uses: Swatinem/rust-cache@v2
-      - run: cargo install --locked mdbook@0.4.30
-      - run: cargo install --locked mdbook-linkcheck@0.7.7
-      - name: Build mdbook
-        run: |
-          mdbook build
-          mdbook test
-      - name: Index.html exists
-        run: test -f book/html/index.html
+      - name: Install devbox
+        uses: jetify-com/devbox-install-action@v0.13.0
+        with:
+          enable-cache: true
+      - name: Run tests
+        run: devbox run test

@@ -9,8 +9,13 @@
       "start": [
         "mdbook serve --open"
       ],
-      "test": [
+      "build": [
         "mdbook build"
+      ],
+      "test": [
+        "mdbook build",
+        "mdbook test",
+        "test -f book/html/index.html"
       ],
       "compress": [
         "mogrify -resize 700 src/assets/*",
