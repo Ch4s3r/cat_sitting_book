@@ -18,12 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: rustup show active-toolchain
-      - uses: Swatinem/rust-cache@v2
-      - run: cargo install --locked mdbook@0.4.30
-      - run: cargo install --locked mdbook-linkcheck@0.7.7
+      - name: Install devbox
+        uses: jetify-com/devbox-install-action@v0.13.0
+        with:
+          enable-cache: true
       - name: Build with mdBook
-        run: mdbook build
+        run: devbox run build
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

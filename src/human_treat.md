@@ -7,7 +7,7 @@ To make it just grab a large pan from the lowest cupboard across the oven, heat 
 ## Fridge
 Everything that you find in the fridge is free for all.
 
-## Coffee makers paradise
+<!-- ## Coffee makers paradise
 To make some fresh french press follow these easy and simple steps.
 
 ### Find the coffee isle
@@ -58,4 +58,4 @@ Clean the spoon and put it back onto the espresso machine.
 
 ### Enjoy
 
-You did it, enjoy your self made cup of coffee!
+You did it, enjoy your self made cup of coffee! -->

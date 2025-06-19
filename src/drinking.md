@@ -1,17 +1,17 @@
 # Drinks
 
 ## Drinks on the house!
-We have a fully automated water fountain for the cats, with a filter so the water does not get stale.
+We have prepared a water bowl for the cats.
 
 ## Location
 It's located upstairs in the bathroom.  
-Please keep the door open so the cats can always reach it.
+Please keep the door open so the cats can always reach it.  
+![drawing](assets/water_bowl.jpg)  
 
 ## Refill
-Please refill it every wednesday and sunday with fresh water.
-Or if you see it and there's no water coming out.
+Please refill it everyday and give it a quick wipe.
 
-### How to
+<!-- ### How to
 Pick up the top part by lifting it.
 You don't need to unscrew the white top part from the metal part.
 Fill in water until the max line.
@@ -38,4 +38,4 @@ Pour hot water over it and clean it with a towel.
 Pour cold water into it until you reach a little under the `max` line.
 
 ### Assembling again
-Follow the steps in reverse order from [Disassembling](#disassembling).
+Follow the steps in reverse order from [Disassembling](#disassembling). -->

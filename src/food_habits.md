@@ -1,7 +1,7 @@
 # Food habits
 
 ## 3 bowls?!? What is what
-![drawing](assets/food_bowls_empty.jpg)
+![drawing](assets/food_bowls_empty.jpg)  
 There should be one in the center for the dry food and the other two for wet food.
 The left bowl is owned by Lola and the right bowl is the property of Luci.
 Please put them to their respective bowl if you see them eating from the wrong one.
@@ -12,13 +12,18 @@ But as this would be a too high effort to feed them twice a day, it's enough if 
 At best typically in the morning, so they can keep on of their habits, but if it's not working for you once a day is also fine, but morning is definitely preferred.
 
 ## Food location
-All the wet food is located in the little space next to the stairs.
-![wet_food_location.jpg](assets/wet_food_location.jpg)
-Once open, put a lid on it, so it doesn't get stale.
-![food_lid.jpg](assets/food_lid.jpg)
+All the wet food is located in the little space next to the stairs.  
+![wet_food_location.jpg](assets/wet_food_location.jpg)  
+Once open, put a lid on it, so it doesn't get stale.  
+![food_lid.jpg](assets/food_lid.jpg)  
 And please clean the spoon with water, so it does not smell too bad and has any leftover of the food on it.
-The dry food is located under oven.
-![dry_food_location.jpg](assets/dry_food_location.jpg)
+The dry food is located under oven. 
+![dry_food_location.jpg](assets/dry_food_location.jpg)  
+
+## Storing opened food
+When opened we put the wet cat food with a lid on, into the fridge to keep it good for longer.
+![](assets/fridge_with_wet_food.jpg)
+
 
 <!-- ## FOOD!
 Wet food should be mixed with warm water if it's coming from the fridge, as cold food is not good for the cats stomach.

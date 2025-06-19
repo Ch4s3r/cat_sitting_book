@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.2/.schema/devbox.schema.json",
+  "packages": [
+    "mdbook@latest",
+    "mdbook-linkcheck@latest"
+  ],
+  "shell": {
+    "scripts": {
+      "start": [
+        "mdbook serve --open"
+      ],
+      "build": [
+        "mdbook build"
+      ],
+      "test": [
+        "mdbook build",
+        "mdbook test",
+        "test -f book/html/index.html"
+      ],
+      "compress": [
+        "mogrify -resize 700 src/assets/*",
+        "mogrify -quality 40 src/assets/*",
+        "du -h src/assets"
+      ]
+    }
+  }
+}

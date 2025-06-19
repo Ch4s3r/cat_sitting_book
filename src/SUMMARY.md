@@ -7,6 +7,7 @@
 - [Cleaning puke](./cleaning_puke.md)
 - [Lola's habits](./lola_habits.md)
 - [Luci's habits](./luci_habits.md)
+- [Gardening](./gardening.md)
 <!-- - [Outdoor living](./outdoor_living.md) -->
 - [Human trash](./human_trash.md)
 - [Human treat](./human_treat.md)
