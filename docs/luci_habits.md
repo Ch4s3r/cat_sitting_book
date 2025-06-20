@@ -1,3 +1,9 @@
+---
+id: luci_habits
+title: Luci's habits
+sidebar_position: 7
+---
+
 # Luci's habits
 
 ## Playing
@@ -20,4 +26,4 @@ He pretty much enjoys the rod with the mouse and also likes black hair bands fro
 
 If you can't find him, he somtimes hides behind the bed frame.
 
-![](assets/luci_hiding_behind_bed.jpg)
+![](/img/luci_hiding_behind_bed.jpg)

@@ -1,3 +1,9 @@
+---
+id: cleaning_puke
+title: Cleaning the puke
+sidebar_position: 5
+---
+
 # Cleaning the puke
 
 ## Checking the flat for accidents
