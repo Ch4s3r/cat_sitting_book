@@ -12,10 +12,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://localhost',
+  url: 'https://ch4s3r.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/cat_sitting_book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
