@@ -1,2 +1,5 @@
 book
 .idea
+node_modules
+build
+.docusaurus

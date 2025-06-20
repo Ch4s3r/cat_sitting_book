@@ -1,0 +1,32 @@
+{
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackProtocols": ["http"],
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    },
+    {
+      "pattern": "^tel:"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/img/",
+      "replacement": "{{BASEURL}}/static/img/"
+    },
+    {
+      "pattern": "^img/",
+      "replacement": "{{BASEURL}}/static/img/"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://github.com", "https://www.github.com"],
+      "headers": {
+        "Accept-Encoding": "gzip"
+      }
+    }
+  ]
+}

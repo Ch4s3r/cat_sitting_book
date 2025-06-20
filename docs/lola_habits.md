@@ -1,3 +1,9 @@
+---
+id: lola_habits
+title: Lola's habits
+sidebar_position: 6
+---
+
 # Lola's habits
 
 ## Lot's of cuddles
@@ -8,4 +14,4 @@ Even if she knows you very good, she'll try to run away, and you have to chase h
 Don't give up too fast, she usually cuddles, then moves a few steps, then cuddles again, then moves again.  
 She wants to have your attentation, even if she does complain a bit while getting cuddled.
 
-![](assets/lola_cuddle_corner.jpg)
+![](/img/lola_cuddle_corner.jpg)

@@ -1,26 +1,39 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.2/.schema/devbox.schema.json",
   "packages": [
-    "mdbook@latest",
-    "mdbook-linkcheck@latest"
+    "nodejs@20",
+    "tailscale"
   ],
   "shell": {
+    "init_hook": [
+      "npm install"
+    ],
     "scripts": {
       "start": [
-        "mdbook serve --open"
+        "bash -c 'tailscale serve --bg 3000 && trap \"tailscale serve reset > /dev/null 2>&1\" EXIT && npm start'"
       ],
       "build": [
-        "mdbook build"
+        "npm run build"
       ],
-      "test": [
-        "mdbook build",
-        "mdbook test",
-        "test -f book/html/index.html"
+      "serve": [
+        "npm run serve"
       ],
       "compress": [
-        "mogrify -resize 700 src/assets/*",
-        "mogrify -quality 40 src/assets/*",
-        "du -h src/assets"
+        "mogrify -resize 700 static/img/*",
+        "mogrify -quality 40 static/img/*",
+        "du -h static/img"
+      ],
+      "test": [
+        "echo '🏗️  Building Docusaurus...'",
+        "npm run build",
+        "echo '✅ Build successful! Now checking links...'",
+        "echo '📝 Checking markdown links...'",
+        "npx markdown-link-check docs/*.md --config .markdown-link-check.json",
+        "echo '🖼️  Checking asset references...'",
+        "node scripts/check-assets.js",
+        "echo '🔗 Checking internal page links...'",
+        "node scripts/check-internal-links.js",
+        "echo '🎉 All tests passed!'"
       ]
     }
   }
