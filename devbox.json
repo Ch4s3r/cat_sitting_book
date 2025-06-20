@@ -6,7 +6,7 @@
   ],
   "shell": {
     "init_hook": [
-      "npm install"
+      "if [ \"$CI\" = \"true\" ]; then echo '🔧 CI environment detected - using clean npm install'; npm install --no-fund --no-audit; elif [ ! -d node_modules ] || [ package-lock.json -nt node_modules ]; then echo '📦 Installing npm dependencies...'; npm ci --no-fund --no-audit; else echo '✅ npm dependencies already installed'; fi"
     ],
     "scripts": {
       "start": [
