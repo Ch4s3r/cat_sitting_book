@@ -9,7 +9,7 @@ The toilet is fully automated but still needs a little attention now and then.
 Please also clean the pellets that are in front of the cat toilet, just grab the vacuum and away they go.
 
 ## Throwing away that poo
-When leaving the house at the beginning of the stree there are 2 big general waste bins.
+When leaving the house at the beginning of the street there are 2 big general waste bins.
 
 ### Removing the used litter
 Pack the sack and then put a new plastic bag in.
